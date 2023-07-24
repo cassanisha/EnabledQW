@@ -50,7 +50,7 @@ This is a smart Quiz Generator that generates a dynamic quiz from any uploaded t
 - Fork and Clone the repo using
 
 ```
-$ git clone https://github.com/PragatiVerma18/Fantastic-Falcons-1.0.git
+$ git clone https://github.com/cassanisha/QuizGenerator01.git
 $ cd Fantastic-Falcons-1.0
 ```
 
