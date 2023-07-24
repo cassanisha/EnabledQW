@@ -94,36 +94,6 @@ $ python app.py
   > **Note**: Support for modern mobile browsers is experimental. The website is not responsive in mobile devices until now.
 
 
-## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody><tr>
-    <td align="center"><a href="https://www.linkedin.com/in/PragatiVerma18/"><img alt="" src="https://avatars2.githubusercontent.com/u/42115530?v=4" width="100px;"><br><sub><b>Pragati Verma</b></sub></a><br><a href="https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/commits?author=PragatiVerma18" title="Code">💻</a></td>
-    <td align="center"><a href="https://kshitij86.github.io/"><img alt="" src="https://avatars1.githubusercontent.com/u/26821140?s=460&u=c86d062a10d9d4495dd39c0ad4f8601ba256d670&v=4" width="100px;"><br><sub><b>Kshitij Kotasthane</b></sub></a><br><a href="https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/commits?author=kshitij86" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/telescopic"><img alt="" src="https://avatars1.githubusercontent.com/u/45061877?s=400&u=07ac89db20b5d84eb1abd4a0769b19d030f8ceb8&v=4" width="100px;"><br><sub><b>Vignesh S</b></sub></a><br><a href="https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/commits?author=telescopic" title="Code">💻</a></td>
-  </tr>
-</tbody></table>
-
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/)
-[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/)
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/)
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/)
 
 ---
