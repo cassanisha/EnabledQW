@@ -17,7 +17,11 @@ This is a smart Quiz Generator that generates a dynamic quiz from any uploaded t
 ## Landing Page
 ![P1](https://github.com/cassanisha/QuizGenerator01/assets/112388219/8472dc7f-f423-4183-b3f1-de367139b2b7)
 
+## Quiz Page
+![P2](https://github.com/cassanisha/QuizGenerator01/assets/112388219/df28ecea-29ca-4197-b072-313b4c604563)
 
+## Results Page
+![P3](https://github.com/cassanisha/QuizGenerator01/assets/112388219/9d1acd92-01ee-4f82-9585-f6b5dda8225d)
 
 ## Technology Stack:
 
