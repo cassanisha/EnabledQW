@@ -2,14 +2,6 @@
 
 This is a smart Quiz Generator that generates a dynamic quiz from any uploaded text/PDF document using NLP. This can be used for self-analysis, question paper generation, and evaluation, thus reducing human effort.
 
-[![Forks](https://img.shields.io/github/forks/PragatiVerma18/Fantastic-Falcons-1.0?style=social)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/network/members)
-[![Stars](https://img.shields.io/github/stars/PragatiVerma18/Fantastic-Falcons-1.0?style=social)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/PragatiVerma18/Fantastic-Falcons-1.0?style=social)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/watchers)
-[![PRs](https://img.shields.io/github/issues-pr/PragatiVerma18/Fantastic-Falcons-1.0)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/pulls)
-[![Issues](https://img.shields.io/github/issues/PragatiVerma18/Fantastic-Falcons-1.0)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/issues)
-[![License](https://img.shields.io/github/license/PragatiVerma18/Fantastic-Falcons-1.0)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PragatiVerma18/Fantastic-Falcons-1.0/graphs/commit-activity)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/)
 
 ## Features
 
@@ -47,11 +39,11 @@ This is a smart Quiz Generator that generates a dynamic quiz from any uploaded t
 
 ### GitHub Repository Structure
 
-| S.No. | Branch Name                                                                   | Purpose                            |
-| ----- | ----------------------------------------------------------------------------- | ---------------------------------- |
-| 1.    | [master](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/tree/master) | contains the main code             |
-| 2.    | [nlp](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/tree/nlp)       | contains all machine learning code |
-| 3.    | [webapp](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/tree/webapp) | contains all frontend/backend code |
+| S.No. | Branch   | Purpose                            |
+| ----- | -------- | ---------------------------------- |
+| 1.    | [master] | contains the main code             |
+| 2.    | [nlp]    | contains all machine learning code |
+| 3.    | [webapp] | contains all frontend/backend code |
 
 ### Setup
 
@@ -101,27 +93,6 @@ $ python app.py
 - **Opera**: version 9 and up
   > **Note**: Support for modern mobile browsers is experimental. The website is not responsive in mobile devices until now.
 
-## MLH Fellowship( Fall 2020)
-
-> This is a hackathon project made by MLH Fellows(Fall 2020) - Pod 1.0.0 i.e. Fantastic Falcons
-
-[![MLH Fellowship](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/113/145/datas/original.jpg)](https://github.com/MLH-Fellowship)
-
-## Team:
-
-> "Alone we can do so little; together we can do so much."
-
-| S.No. | Name               | Role               | GitHub Username:octocat:                             |
-| ----- | ------------------ | ------------------ | ---------------------------------------------------- |
-| 1.    | Pragati Verma      | Frontend Developer | [@PragatiVerma18](https://github.com/PragatiVerma18) |
-| 2.    | Kshitij Kotasthane | Backend Developer  | [@kshitij86](https://github.com/kshitij86)           |
-| 3.    | Vignesh S          | ML                 | [@telescopic](https://github.com/telescopic)         |
-
-
-<br>
-<br>
-
-![Fantastic Falcons](https://user-images.githubusercontent.com/42115530/95672625-0aef1880-0bc0-11eb-8db6-90f6e16af2c0.gif)
 
 ## Contributors ✨
 
